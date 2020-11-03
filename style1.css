@@ -60,7 +60,10 @@ background-color: #D3d3d3;
     
 }
 
-
+.button1:hover {
+	cursor:pointer;
+	border: 2px solid black;
+}
 
 #below{
 	text-align: center;
